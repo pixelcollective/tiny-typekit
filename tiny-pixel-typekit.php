@@ -1,8 +1,8 @@
 <?php
 /*
-Plugin Name: &nbsp;✨Typekit Support✨
-Description: Typekit Integration
-Plugin URI: https://github.com/pixelcollective/typekit
+Plugin Name: &nbsp;✨Typekit WP✨
+Description: Simple typekit integration for WordPress
+Plugin URI: https://github.com/pixelcollective/tiny-typekit
 Author: Tiny Pixel Collective, Kelly Mears <developers@tinypixel.io>
 Version: 1.0.0
 Author URI: https://tinypixel.io
